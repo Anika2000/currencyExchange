@@ -14,4 +14,4 @@ Currency Exchange Scala - Play Framework
    - :open_file_folder: **conf**
        - :open_file_folder: **routes** : Contains all the routes for the website like GET and POST
 
-[All the codes implemented are in the above files]
+
