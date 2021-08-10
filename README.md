@@ -13,5 +13,6 @@ Currency Exchange Scala - Play Framework
            -   :open_file_folder: **currencyExchange.scala.html** : View of the form for currency exchange 
    - :open_file_folder: **conf**
        - :open_file_folder: **routes** : Contains all the routes for the website like GET and POST
+       - /current will take you to the form and / is the main or index view which welcomes users
 
 
