@@ -1,0 +1,14 @@
+@import scala.util.Try
+@(value : Double, currency: String)(implicit request: RequestHeader)
+
+@main("First Version"){
+    <div id="currencyOne">
+        <form method="post" action="currencyExchange" id="form-one">
+            @helper.CSRF.formField
+            <input name="currency" id="input-one" type="text" placeholder="Currency">
+            <input id="submit-one" type="Submit" value="Convert">
+        </form>
+        <div id="result-one">1 EUR is @value @currency</div>
+    </div>
+
+}
