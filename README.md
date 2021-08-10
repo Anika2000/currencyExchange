@@ -1,6 +1,5 @@
 # currencyExchange
 Currency Exchange Scala - Play Framework 
-# Shopaholic 
 ## Navigating the file system for code: 
    - :open_file_folder: **app**
       -  :open_file_folder: **controllers** 
